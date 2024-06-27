@@ -1,0 +1,11 @@
+C:\Users\milda\Documents\Repos\SifrovyPrekladac-Desktop\SifrovyPrekladac\SifrovyPrekladac\bin\Debug\SifrovyPrekladac.exe.config
+C:\Users\milda\Documents\Repos\SifrovyPrekladac-Desktop\SifrovyPrekladac\SifrovyPrekladac\bin\Debug\SifrovyPrekladac.exe
+C:\Users\milda\Documents\Repos\SifrovyPrekladac-Desktop\SifrovyPrekladac\SifrovyPrekladac\bin\Debug\SifrovyPrekladac.pdb
+C:\Users\milda\Documents\Repos\SifrovyPrekladac-Desktop\SifrovyPrekladac\SifrovyPrekladac\obj\Debug\SifrovyPrekladac.csproj.AssemblyReference.cache
+C:\Users\milda\Documents\Repos\SifrovyPrekladac-Desktop\SifrovyPrekladac\SifrovyPrekladac\obj\Debug\SifrovyPrekladac.Properties.Resources.resources
+C:\Users\milda\Documents\Repos\SifrovyPrekladac-Desktop\SifrovyPrekladac\SifrovyPrekladac\obj\Debug\SifrovyPrekladac.csproj.GenerateResource.cache
+C:\Users\milda\Documents\Repos\SifrovyPrekladac-Desktop\SifrovyPrekladac\SifrovyPrekladac\obj\Debug\SifrovyPrekladac.csproj.CoreCompileInputs.cache
+C:\Users\milda\Documents\Repos\SifrovyPrekladac-Desktop\SifrovyPrekladac\SifrovyPrekladac\obj\Debug\SifrovyPrekladac.exe
+C:\Users\milda\Documents\Repos\SifrovyPrekladac-Desktop\SifrovyPrekladac\SifrovyPrekladac\obj\Debug\SifrovyPrekladac.pdb
+C:\Users\milda\Documents\Repos\SifrovyPrekladac-Desktop\SifrovyPrekladac\SifrovyPrekladac\obj\Debug\SifrovyPrekladac.src.forms.ConfigurationError.resources
+C:\Users\milda\Documents\Repos\SifrovyPrekladac-Desktop\SifrovyPrekladac\SifrovyPrekladac\obj\Debug\SifrovyPrekladac.MainMenu.resources
