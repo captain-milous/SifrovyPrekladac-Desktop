@@ -8,4 +8,5 @@ C:\Users\milda\Documents\Repos\SifrovyPrekladac-Desktop\SifrovyPrekladac\Sifrovy
 C:\Users\milda\Documents\Repos\SifrovyPrekladac-Desktop\SifrovyPrekladac\SifrovyPrekladac\obj\Debug\SifrovyPrekladac.exe
 C:\Users\milda\Documents\Repos\SifrovyPrekladac-Desktop\SifrovyPrekladac\SifrovyPrekladac\obj\Debug\SifrovyPrekladac.pdb
 C:\Users\milda\Documents\Repos\SifrovyPrekladac-Desktop\SifrovyPrekladac\SifrovyPrekladac\obj\Debug\SifrovyPrekladac.src.forms.ConfigurationError.resources
-C:\Users\milda\Documents\Repos\SifrovyPrekladac-Desktop\SifrovyPrekladac\SifrovyPrekladac\obj\Debug\SifrovyPrekladac.MainMenu.resources
+C:\Users\milda\Documents\Repos\SifrovyPrekladac-Desktop\SifrovyPrekladac\SifrovyPrekladac\obj\Debug\SifrovyPrekladac.src.forms.MainMenuForm.resources
+C:\Users\milda\Documents\Repos\SifrovyPrekladac-Desktop\SifrovyPrekladac\SifrovyPrekladac\obj\Debug\SifrovyPrekladac.src.forms.PrekladForm.resources

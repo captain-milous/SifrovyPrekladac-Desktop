@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="src\filesManager\DictionaryHandler.cs" />
     <Compile Include="src\forms\ConfigurationError.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -58,9 +59,22 @@
     <Compile Include="src\forms\MainMenuForm.Designer.cs">
       <DependentUpon>MainMenuForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="src\forms\PrekladForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\forms\PrekladForm.Designer.cs">
+      <DependentUpon>PrekladForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\historyManager\HistoryHandler.cs" />
+    <Compile Include="src\historyManager\HistoryReader.cs" />
+    <Compile Include="src\historyManager\HistoryWriter.cs" />
+    <Compile Include="src\logsManager\Log.cs" />
+    <Compile Include="src\logsManager\LogFileWriter.cs" />
+    <Compile Include="src\logsManager\LogHandler.cs" />
     <Compile Include="src\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="src\ProgramInitiation.cs" />
+    <Compile Include="src\sifry\ActiveSifry.cs" />
     <EmbeddedResource Include="src\forms\ConfigurationError.resx">
       <DependentUpon>ConfigurationError.cs</DependentUpon>
     </EmbeddedResource>
@@ -73,6 +87,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="src\forms\MainMenuForm.resx">
+      <DependentUpon>MainMenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\forms\PrekladForm.resx">
+      <DependentUpon>PrekladForm.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -86,11 +106,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="src\filesManager\" />
-    <Folder Include="src\historyManager\" />
-    <Folder Include="src\logsManager\" />
-    <Folder Include="src\sifry\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
